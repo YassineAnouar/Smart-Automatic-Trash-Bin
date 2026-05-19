@@ -18,4 +18,4 @@ An Arduino-based smart trash bin that opens automatically using an ultrasonic se
 
 ##  Demo Video
 Watch the project in action:
-https://youtube.com/shorts/yVpKz9080Ew
+https://youtube.com/shorts/XxDYpBLgBuY?feature=share
